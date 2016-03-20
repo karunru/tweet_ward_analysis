@@ -1,2 +1,2 @@
-# tweet_ward_analysis
-tweets.csvã‹ã‚‰é »å‡ºå˜èªã‚’æŠ½å‡ºã™ã‚‹
+# tweet_word_analysis
+tweets.csv‚©‚ç•po’PŒê‚ğ’Šo‚·‚é
